@@ -1,0 +1,11 @@
+{
+  "appId": "me.snair.sidapp",
+  "appName": "sid-app",
+  "bundledWebRuntime": false,
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  }
+}

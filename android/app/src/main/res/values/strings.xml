@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">sid-app</string>
+    <string name="title_activity_main">sid-app</string>
+    <string name="package_name">me.snair.sidapp</string>
+    <string name="custom_url_scheme">me.snair.sidapp</string>
+</resources>
